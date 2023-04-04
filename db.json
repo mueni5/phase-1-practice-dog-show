@@ -100,6 +100,16 @@
     "name": "Coco",
     "breed": "Affenpinscher",
     "sex": "female"
+    },
+    
+    {
+      "name": "Ares",
+      "breed": "Boerboel",
+      "sex": "Male",
+      "id": 21
     }
   ]
 }
+  
+
+  
